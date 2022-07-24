@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70495693955",
+    "project_id": "firebase-hang-example",
+    "storage_bucket": "firebase-hang-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70495693955:android:d2d53e109b5fc8cc03bfb6",
+        "android_client_info": {
+          "package_name": "com.hang_example.firebase_hang_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70495693955-k9mf02qsmmr7nudae2ov4povv4aecuqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3LaV8NkTxmZN25O-Xlcpytq3RFaQlbY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70495693955-k9mf02qsmmr7nudae2ov4povv4aecuqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
